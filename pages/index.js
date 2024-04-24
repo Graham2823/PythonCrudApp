@@ -55,7 +55,6 @@ console.log(transfers)
 
     }
 
-console.log(playerDetails)
   }
   return (
     <div>
