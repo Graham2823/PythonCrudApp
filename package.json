@@ -9,11 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "font-awesome": "^4.7.0",
     "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
     "flask": "^0.2.10",
     "mongoose": "^8.3.2",
     "next": "14.2.2",
     "react": "^18",
+    "react-bootstrap": "^2.10.2",
     "react-dom": "^18"
   },
   "devDependencies": {
